@@ -10,3 +10,7 @@ This bot can delete message from user which using channel to sending message. al
 **This source is free to use, Don't sale this source!!**  
 
 Made with ❤️ by [butthx](https://t.me/BotsArchive/2350)
+
+**Deploy To Heroku**
+
+[Click Here](https://heroku.com/deploy=https://github.com/hoihoi07/nochnbot)
