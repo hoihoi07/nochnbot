@@ -13,4 +13,4 @@ Made with ❤️ by [butthx](https://t.me/BotsArchive/2350)
 
 **Deploy To Heroku**
 
-[Click Here](https://heroku.com/deploy=https://github.com/hoihoi07/nochnbot)
+[Click Here](https://heroku.com/deploy?template=https://github.com/hoihoi07/nochnbot)
